@@ -5,3 +5,7 @@ Array.prototype.borrar = function(element) {
 		}
 	}
 }
+
+
+
+
